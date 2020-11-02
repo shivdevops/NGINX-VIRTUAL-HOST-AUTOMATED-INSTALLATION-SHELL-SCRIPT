@@ -15,7 +15,7 @@
 ## Prerequistes:
 
   * Ubuntu OS.
-  * Web Server apache2
+  * Web Server Nginx
   * Nginx-LEMP installation link: https://github.com/shivdevops/LEMP-INSTALLATION-SHELL-SCRIPT
 
 ## Note:
